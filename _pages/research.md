@@ -30,29 +30,28 @@ My research focuses on solving <strong>path and motion planning</strong> problem
 <!-- project 2 -->
 <img src="../images/calib.gif" alt="" width="400" height="300" align="left" vspace= "10" hspace="0"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
-## Generic Calibration Toolbox
-- Proposed motion planning algorithms to achieve in-situ repair of industrial parts by applying **coverage scanning** and **non-planar 3D printing**. [[View more](/research/insitu_repair)]  
-- [[Poster](https://yuchenwu2001.github.io/files/AM_Poster.pdf)] [[Video](https://bit.ly/dual_arm_demo)] 
+## Autonomous Calibration Toolbox based on UR5e
+- Designed a calibration toolbox that supports **multiple** types of calibration and **automatically** collects photo samples without the need of human intervention. [[View more](/research/insitu_repair)]  
+- [[Code](https://github.com/Flowerst-0416/UR_arm_camera_calibration)] 
 
 <br>
 <br>
 
 <!-- project 3 -->
-<img src="../images/hetero.gif" alt="" width="360" height="200" align="left" vspace= "10" hspace="20"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
+<img src="../images/hetero.gif" alt="" width="360" height="200" align="left" hspace="20"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
 ## 2D Heterogeneous Coverage
-- Proposed motion planning algorithms to achieve in-situ repair of industrial parts by applying **coverage scanning** and **non-planar 3D printing**. [[View more](/research/insitu_repair)]  
-- [[Poster](https://yuchenwu2001.github.io/files/AM_Poster.pdf)] [[Video](https://bit.ly/dual_arm_demo)] 
+- Implemented a motion planner for a team of 4 heterogenenous agents with different color to paint a 2D canvas collectively. [[View more](/research/insitu_repair)]  
+- [[Code](https://github.com/YuchenWu2001/Heterogeneous_coverage_2d)] 
 
 <br>
 <br>
 
 <!-- project 4 -->
-<img src="../images/dual_arm3.gif" alt="" width="400" height="300" align="left" vspace= "10" hspace="0"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
+<img src="../images/dynamic.gif" alt="" width="400" height="300" align="left" vspace= "10" hspace="0"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
 ## Dynamic Path Planning
-- Proposed motion planning algorithms to achieve in-situ repair of industrial parts by applying **coverage scanning** and **non-planar 3D printing**. [[View more](/research/insitu_repair)]  
-- [[Poster](https://yuchenwu2001.github.io/files/AM_Poster.pdf)] [[Video](https://bit.ly/dual_arm_demo)] 
+- Proposed a dyanmic obstacle avoidance offset to robot's local controller to acheive fast collision avoidance for factory mobile bases. [[View more](/research/insitu_repair)]  
 
 <br>
 <br>
