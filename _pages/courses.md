@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-## Instructional Aide (IA):
+## A list of courses I have taught as Instructional Aide (IA):
 
 EECS 461&nbsp;&nbsp;**Embedded Control Systems** (Winter 2023)  
 EECS 373&nbsp;&nbsp;**Introduction to Embedded System Design** (Fall 2022)

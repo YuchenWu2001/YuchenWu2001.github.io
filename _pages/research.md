@@ -31,7 +31,7 @@ My research focuses on solving <strong>path and motion planning</strong> problem
 <img src="../images/calib.gif" alt="" width="400" height="300" align="left" vspace= "10" hspace="0"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
 ## Autonomous Calibration Toolbox based on UR5e
-- Designed a calibration toolbox that supports **multiple** types of calibration and **automatically** collects photo samples without the need of human intervention. [[View more](/research/insitu_repair)]  
+- Designed a calibration toolbox that supports **multiple** types of calibration and **automatically** collects photo samples without the need of human intervention. [[View more](/research/calib)]  
 - [[Code](https://github.com/Flowerst-0416/UR_arm_camera_calibration)] 
 
 <br>
@@ -41,7 +41,7 @@ My research focuses on solving <strong>path and motion planning</strong> problem
 <img src="../images/hetero.gif" alt="" width="360" height="200" align="left" hspace="20"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
 ## 2D Heterogeneous Coverage
-- Implemented a motion planner for a team of 4 heterogenenous agents with different color to paint a 2D canvas collectively. [[View more](/research/insitu_repair)]  
+- Implemented a motion planner for a team of 4 heterogenenous agents with different color to paint a 2D canvas collectively. [[View more](/research/hetero)]  
 - [[Code](https://github.com/YuchenWu2001/Heterogeneous_coverage_2d)] 
 
 <br>
