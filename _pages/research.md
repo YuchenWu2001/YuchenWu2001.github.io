@@ -22,8 +22,21 @@ My research focuses on solving <strong>path and motion planning</strong> problem
 
 ## In-situ Inspection and Repair using Dual-Arm System
 - Proposed motion planning algorithms to achieve in-situ repair of industrial parts by applying **coverage scanning** and **non-planar 3D printing**. [[View more](/research/insitu_repair)]  
-- [[Poster](https://yuchenwu2001.github.io/files/AM_Poster.pdf)] [[Video](https://bit.ly/dual_arm_demo)] 
+- [[Poster](/files/AM_Poster.pdf)] [[Video](https://bit.ly/dual_arm_demo)] 
 
+<br>
+<br>
+
+<!-- project 3 -->
+
+<img src="../images/hetero.gif" alt="" width="360" height="200" align="left" hspace="20"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
+
+## 2D Heterogeneous Coverage
+- Implemented a motion planner for a team of 4 heterogenenous agents with different color to paint a 2D canvas collectively. [[View more](/research/hetero)]  
+- [[Code](https://github.com/YuchenWu2001/Heterogeneous_coverage_2d)] 
+
+<br>
+<br>
 <br>
 <br>
 
@@ -37,21 +50,13 @@ My research focuses on solving <strong>path and motion planning</strong> problem
 <br>
 <br>
 
-<!-- project 3 -->
-<img src="../images/hetero.gif" alt="" width="360" height="200" align="left" hspace="20"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
-## 2D Heterogeneous Coverage
-- Implemented a motion planner for a team of 4 heterogenenous agents with different color to paint a 2D canvas collectively. [[View more](/research/hetero)]  
-- [[Code](https://github.com/YuchenWu2001/Heterogeneous_coverage_2d)] 
-
-<br>
-<br>
 
 <!-- project 4 -->
 <img src="../images/dynamic.gif" alt="" width="400" height="300" align="left" vspace= "10" hspace="0"  style=" padding: 0px 50px 0px 0px; border: #FFFFFF 2px none;"> 
 
 ## Dynamic Path Planning
-- Proposed a dyanmic obstacle avoidance offset to robot's local controller to acheive fast collision avoidance for factory mobile bases. [[View more](/research/insitu_repair)]  
+- Proposed a dyanmic obstacle avoidance offset to robot's local controller to acheive fast collision avoidance for factory mobile bases. [[View more](/research/dynamic)]  
 
 <br>
 <br>
