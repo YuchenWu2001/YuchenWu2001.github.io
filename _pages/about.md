@@ -15,7 +15,7 @@ I am currently a senior majoring in <strong>Computer Engineering</strong> at the
 My research focuses on solving <strong>path and motion planning</strong> problems for single and multiple robots, especially on the topic of sensor-based motion planning. In particular, my research aims to find the connection between raw sensory information and predefined objectives while efficiently computing feasible motion plans to optimize current robot actions. These problems often arise in smart manufacturing. Details of my past research can be found in <a href="/research">here</a>. In the future, I would like to investigate more path and motion planning problems, including <strong>safe and efficient motion planning</strong> and <strong>multi-robot collaboration</strong>. 
 </p>
 
-<strong> Here is a link of my  <a href="/files/Yuchen_Wu_Resume.pdf" resume> </strong>
+<strong> Here is a link of my  <a href="/files/Yuchen_Wu_Resume.pdf"> resume</a> </strong>
 
 
 <!-- <iframe
